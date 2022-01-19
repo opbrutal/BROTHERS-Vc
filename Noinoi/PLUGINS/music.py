@@ -1,4 +1,4 @@
-# © NOINOI MUSIC @CFC_BOT_SUPPORT
+# © NOINOI MUSIC @ASUKA_SUPPORT
 
 import re
 import asyncio
@@ -47,9 +47,9 @@ async def play(c: Client, m: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("• Gʀᴏᴜᴘ", url=f"https://t.me/CFC_BOT_SUPPORT"),
+                InlineKeyboardButton("• Gʀᴏᴜᴘ", url=f"https://t.me/LOFILIFEXD"),
                 InlineKeyboardButton(
-                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/BAZIGARXD"),
+                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/ASUKA_SUPPORT"),
             ]
         ]
     )
