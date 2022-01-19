@@ -1,4 +1,4 @@
-# © NOINOI MUSIC @ASUKA_SUPPORT
+# © ASUKA~X MUSIC @ASUKA_SUPPORT
 
 import re
 import asyncio
