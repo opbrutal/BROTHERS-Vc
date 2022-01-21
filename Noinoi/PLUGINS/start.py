@@ -62,12 +62,12 @@ async def start_(client: Client, message: Message):
 """,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("📢ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                [InlineKeyboardButton("📢ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
                 InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/nishu_op_official"),
-                InlineKeyboardButton("✨ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{UPDATES_CHANNEL}"),],
+                InlineKeyboardButton("✨ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),],
                 [InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="cbcmds"),
                 InlineKeyboardButton("❓ ꜱᴇᴛᴜᴘ", callback_data="cbsetup"),],
-                [InlineKeyboardButton(" ᴀᴅᴅ ᴍᴇᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true",)],
+                [InlineKeyboardButton(" sᴜᴍᴍᴏɴ ᴍᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true",)],
             ]
         ),
         disable_web_page_preview=True,
@@ -136,11 +136,8 @@ async def new_chat(c: Client, m: Message):
                     [
                         [
                             InlineKeyboardButton("📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                            InlineKeyboardButton("💭 ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}")
+                            InlineKeyboardButton("🔥 ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}")
                         ],
-                        [
-                            InlineKeyboardButton("👤 ᴀꜱꜱɪꜱᴛᴀɴᴛ", url=f"https://t.me/{ass_uname}")
-                        ]
                         [
                             InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="cbcmds")
                         ]
