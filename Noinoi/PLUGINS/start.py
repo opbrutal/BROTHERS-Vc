@@ -62,8 +62,8 @@ async def start_(client: Client, message: Message):
 """,
         reply_markup=InlineKeyboardMarkup(
             [
+                [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/nishu_op_official")],
                 [InlineKeyboardButton("📢ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/nishu_op_official"),
                 InlineKeyboardButton("✨ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),],
                 [InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="cbcmds"),
                 InlineKeyboardButton("❓ ꜱᴇᴛᴜᴘ", callback_data="cbsetup"),],
