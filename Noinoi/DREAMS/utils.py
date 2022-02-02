@@ -23,9 +23,9 @@ from pytgcalls.types.stream import StreamAudioEnded, StreamVideoEnded
 keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("• Gʀᴏᴜᴘ", url=f"https://t.me/CFC_BOT_SUPPORT"),
+                InlineKeyboardButton("• Gʀᴏᴜᴘ", url=f"https://t.me/THE_BROTHERS_GROUP"),
                 InlineKeyboardButton(
-                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/BAZIGARXD"),
+                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/NISHU_BOTHUB"),
             ]
         ]
     )
