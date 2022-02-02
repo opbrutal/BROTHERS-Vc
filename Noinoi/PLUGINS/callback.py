@@ -24,12 +24,12 @@ async def cbstart(_, query: CallbackQuery):
 🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**""",
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇꜱ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton("ꜱᴏᴜʀᴄᴇ", url="https://T.ME/BAZIGARYT"),
-                InlineKeyboardButton("✨ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{UPDATES_CHANNEL}"),],
+                [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/nishu_op_official")],
+                [InlineKeyboardButton("📢ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                InlineKeyboardButton("✨ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),],
                 [InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="cbcmds"),
                 InlineKeyboardButton("❓ ꜱᴇᴛᴜᴘ", callback_data="cbsetup"),],
-                [InlineKeyboardButton(" ᴀᴅᴅ ᴍᴇᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true",)],
+                [InlineKeyboardButton(" sᴜᴍᴍᴏɴ ᴍᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true",)],
             ]
         ),
         disable_web_page_preview=True,
@@ -179,7 +179,7 @@ async def cbsetup(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""**Hello !**
 » **press the button below to read the explanation and see the help commands !**
-**✨ ᴘᴏᴡᴇʀᴅ ʙʏ ɴᴏɪɴᴏɪ ᴍᴜꜱɪᴄ**""",
+**✨ ᴘᴏᴡᴇʀᴅ ʙʏ ʙʀᴏᴛʜᴇʀs ᴍᴜꜱɪᴄ**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
