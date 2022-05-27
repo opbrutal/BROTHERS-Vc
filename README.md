@@ -1,7 +1,7 @@
-#      <p align="center">𝑵𝒐𝒊𝒏𝒐𝒊 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 -𝑪𝑭𝑪 𝑩𝒐𝒕𝒔  </a></p>
+#      <p align="center">𓆩乃𝗥𝗨𝗧𝗔𝗟𓆪╉⛦⃕͜𝗠𝗨𝗦𝗜𝗖</a></p>
 <p align="center">
 
-<p align="center"><a href="https://t.me/noinoi_bot"><img src="https://telegra.ph/file/842f2023edaf5b6f726d9.jpg"></a></p>
+<p align="center"><a href="https://t.me/Brutal_420_Music_Robot"><img src="https://telegra.ph/file/09b94f07d438285a875cc.jpg"></a></p>
 <p align="center">
     
 
@@ -70,11 +70,11 @@ python3 main.py # run the bot.
 
 # Credits 💖
 
-- [Levina](https://github.com/levina-lab) ``Dev``
-- [heyaaman](https://github.com/heyaaman) ``supporter``
-- [phoenix](https://t.me/phoenixwarmed) ``network owner``
-- [Laky's](https://github.com/Laky-64) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
+- [brutal](https://github.com/levina-lab) ``Dev``
+- [ajeet](https://github.com/heyaaman) ``supporter``
+- [aish](https://t.me/phoenixwarmed) ``network owner``
+- [cobra](https://github.com/Laky-64) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
+- [shiv](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
 
 ### Support & Updates 🎑
-<a href="https://t.me/CFC_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/BAZIGARXD"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+n2-80z-K51dmNDY1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/BAZIGARXD"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
