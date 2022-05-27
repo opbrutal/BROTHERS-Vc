@@ -12,11 +12,11 @@ import requests
 from PIL import Image, ImageDraw, ImageFont
 
 FOREGROUND_IMG = [
-    "Noinoi/IMAGES/LightBlue.png",
-    "Noinoi/IMAGES/Orange.png",
-    "Noinoi/IMAGES/Red.png",
-    "Noinoi/IMAGES/Violate.png",
-    "Noinoi/IMAGES/Grey.png",
+    "Brutal/IMAGES/LightBlue.png",
+    "Brutal/IMAGES/Orange.png",
+    "Brutal/IMAGES/Red.png",
+    "Brutal/IMAGES/Violate.png",
+    "Brutal/IMAGES/Grey.png",
 ]
 
 aiohttpsession = aiohttp.ClientSession()
